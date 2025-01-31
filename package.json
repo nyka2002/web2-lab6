@@ -1,0 +1,23 @@
+{
+  "name": "web2-lab6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+"scripts": {
+  "serve": "node server.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyka2002/web2-lab6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyka2002/web2-lab6/issues"
+  },
+  "homepage": "https://github.com/nyka2002/web2-lab6#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
